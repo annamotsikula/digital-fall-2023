@@ -1,0 +1,17 @@
+{
+  "name": "ts-intro",
+  "version": "1.0.0",
+  "description": "This is demo test project of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc main.ts --watch",
+    "start": "lite-server"
+  },
+  "author": "A.M.",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.2.2"
+  }
+}
